@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+this my first react hands-on, it's simple app to add and delete tasks, connected with json-server
+
+the main idea of it to learn react concept 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
